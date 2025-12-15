@@ -5,7 +5,7 @@
 local FloatingMounts = {
     ["MOUNT YAHAYUK"] = { 
     v1 = "mount_yahayuk.json", 
-    v2 = "",
+    v2 = "",mount_yahayuk_normal.json
     v3 = "" },
     
         ["MOUNT SIBUATAN"] = { 
@@ -72,7 +72,7 @@ local FloatingMounts = {
 
 
                
-         ["MOUNT VELORA"] = { 
+         ["MOUNT POSWA"] = { 
     v1 = "mount_velora.json", 
     v2 = "",
     v3 = "" }

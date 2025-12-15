@@ -12,8 +12,67 @@ local FloatingMounts = {
     v1 = "mount_sibuatan.json", 
     v2 = "",
     v3 = "" },
-    
-            ["MOUNT VELORA"] = { 
+
+        ["MOUNT YAGESYA"] = { 
+    v1 = "mount_yagesya.json", 
+    v2 = "",
+    v3 = "" },
+
+        ["MOUNT FUNNY"] = { 
+    v1 = "mount_funny.json", 
+    v2 = "",
+    v3 = "" },
+
+        ["MOUNT FRESTEL"] = { 
+    v1 = "mount_frestel.json", 
+    v2 = "",
+    v3 = "" },
+
+
+        ["MOUNT GEMI"] = { 
+    v1 = "mount_gemi.json", 
+    v2 = "",
+    v3 = "" },
+
+        ["MOUNT AGE"] = { 
+    v1 = "mount_age.json", 
+    v2 = "",
+    v3 = "" },
+
+        ["MOUNT AETHERIA"] = { 
+    v1 = "mount_aetheria.json", 
+    v2 = "",
+    v3 = "" },
+
+        ["MOUNT MUKZIJAT_PENGAHALANG"] = { 
+    v1 = "mount_mukzijat_penghalang.json", 
+    v2 = "",
+    v3 = "" },
+
+         ["MOUNT BEJIRLAH"] = { 
+    v1 = "mount_bejirlah.json", 
+    v2 = "",
+    v3 = "" },
+
+
+           ["MOUNT AYRIENE"] = { 
+    v1 = "mount_ayriene.json", 
+    v2 = "",
+    v3 = "" },
+
+        ["MOUNT AURIESE"] = { 
+    v1 = "mount_auriese.json", 
+    v2 = "",
+    v3 = "" },
+
+        ["MOUNT ANJIR"] = { 
+    v1 = "mount_anjir.json", 
+    v2 = "",
+    v3 = "" },
+
+
+               
+         ["MOUNT VELORA"] = { 
     v1 = "mount_velora.json", 
     v2 = "",
     v3 = "" }

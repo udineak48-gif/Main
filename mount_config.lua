@@ -4,8 +4,8 @@
 ---------------------------------------------------------------------
 local FloatingMounts = {
     ["MOUNT YAHAYUK"] = { 
-    v1 = "mount_yahayuk.json", 
-    v2 = "",
+    v1 = "mount_yahayuk_wasd.json", 
+    v2 = "mount_yahayuk_normal",
     v3 = "" },
     
         ["MOUNT SIBUATAN"] = { 
@@ -79,7 +79,22 @@ local FloatingMounts = {
     v1 = "mount_yntks.json", 
     v2 = "",
     v3 = "" },
-      
+    
+              ["MOUNT RUNIA"] = { 
+    v1 = "mount_runia.json", 
+    v2 = "",
+    v3 = "" },
+    
+              ["MOUNT KITA"] = { 
+    v1 = "mount_kita.json", 
+    v2 = "",
+    v3 = "" },
+    
+              ["MOUNT ZAYANA"] = { 
+    v1 = "mount_zayana.json", 
+    v2 = "",
+    v3 = "" },
+    
          ["MOUNT POSWA"] = { 
     v1 = "mount_poswa.json", 
     v2 = "",

@@ -3,20 +3,27 @@
 -- Konfigurasi Mounts
 ---------------------------------------------------------------------
 local FloatingMounts = {
-    ["MOUNT YAHAYUK"] = { 
+    ["MOUNT YAHAYUK WASD"] = { 
     v1 = "mount_yahayuk_wasd.json", 
-    v2 = "mount_yahayuk_normal",
+    v2 = "” 
     v3 = "" },
     
-        ["MOUNT SIBUATAN"] = { 
+        MOUNT SIBUATAN"] = { 
     v1 = "mount_sibuatan.json", 
     v2 = "",
     v3 = "" },
+ ["
 
         ["MOUNT YAGESYA"] = { 
     v1 = "mount_yagesya.json", 
     v2 = "",
     v3 = "" },
+
+        ["MOUNT YAHAYUK NORMAL"] = { 
+    v1 = "mount_yahayul_normal.json", 
+    v2 = "",
+    v3 = "" },
+
 
         ["MOUNT FUNNY"] = { 
     v1 = "mount_funny.json", 

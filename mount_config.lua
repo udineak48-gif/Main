@@ -1,10 +1,15 @@
-IZ9MS29OHBN4-- mount_config.lua
+-- mount_config.lua
 
 -- Konfigurasi Mounts
 ---------------------------------------------------------------------
 local FloatingMounts = {
-    ["MOUNT YAHAYUK NORMAL"] = { 
+    ["MOUNT YAHAYUK_NORMAL"] = { 
     v1 = "mount_yahayuk_normal.json", 
+    v2 = "",
+    v3 = "" },
+    
+      ["MOUNT YAHAYUK_WASD"] = { 
+    v1 = "mount_yahayuk_wasd.json", 
     v2 = "",
     v3 = "" },
     
@@ -12,14 +17,13 @@ local FloatingMounts = {
     v1 = "mount_sibuatan.json", 
     v2 = "",
     v3 = "" },
- ["
 
         ["MOUNT YAGESYA"] = { 
     v1 = "mount_yagesya.json", 
     v2 = "",
     v3 = "" },
 
-       ["MOUNT FUNNY"] = { 
+        ["MOUNT FUNNY"] = { 
     v1 = "mount_funny.json", 
     v2 = "",
     v3 = "" },
@@ -90,33 +94,25 @@ local FloatingMounts = {
     v1 = "mount_kita.json", 
     v2 = "",
     v3 = "" },
+      
+   
     
               ["MOUNT ZAYANA"] = { 
     v1 = "mount_zayana.json", 
     v2 = "",
     v3 = "" },
     
-
-
-
-              ["MOUNT ZAYANA"] = { 
-    v1 = "mount_zayana.json", 
+             ["MOUNT BUTTERFLY"] = { 
+    v1 = "mount_butterfly.json", 
     v2 = "",
     v3 = "" },
     
-
-              ["MOUNT BUTTERFLY"] = { 
-    v1 = "mount_buffterfly.json", 
-    v2 = "",
-    v3 = "" },
-    
-
-              ["MOUNT ARAK"] = { 
+             ["MOUNT ARAK"] = { 
     v1 = "mount_arak.json", 
     v2 = "",
     v3 = "" },
     
-
+  
          ["MOUNT POSWA"] = { 
     v1 = "mount_poswa.json", 
     v2 = "",

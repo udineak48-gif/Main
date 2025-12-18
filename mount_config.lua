@@ -26,7 +26,7 @@ local FloatingMounts = {
 
         ["MOUNT FRESTEL"] = { 
     v1 = "mount_frestel.json", 
-    v2 = "",
+    v2 = "mount_frestel_wasd.json",
     v3 = "" },
 
 
@@ -42,7 +42,7 @@ local FloatingMounts = {
 
         ["MOUNT AETHERIA"] = { 
     v1 = "mount_aetheria.json", 
-    v2 = "",
+    v2 = "mount_aetheria_c3.json",
     v3 = "" },
 
         ["MOUNT MUKZIJAT_PENGAHALANG"] = { 
@@ -107,13 +107,8 @@ local FloatingMounts = {
     v1 = "mount_arak.json", 
     v2 = "",
     v3 = "" },
-    
-           ["MOUNT "] = { 
-    v1 = "mount_yahayuk_v3.json", 
-    v2 = "",
-    v3 = "" },
-    
-         ["MOUNT POSWA"] = { 
+
+          ["MOUNT POSWA"] = { 
     v1 = "mount_poswa.json", 
     v2 = "",
     v3 = "" }

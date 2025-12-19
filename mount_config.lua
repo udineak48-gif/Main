@@ -42,13 +42,9 @@ local FloatingMounts = {
 
         ["MOUNT AETHERIA"] = { 
     v1 = "mount_aetheria.json", 
-    v2 = "",
+    v2 = "mount_aetheria_c3.json",
     v3 = "" },
 
-        ["MOUNT AETHERIA C3"] = { 
-    v1 = "mount_aetheria_c3.json", 
-    v2 = "",
-    v3 = "" },
 
         ["MOUNT MUKZIJAT_PENGAHALANG"] = { 
     v1 = "mount_mukzijat_penghalang.json", 

@@ -14,6 +14,11 @@ local FloatingMounts = {
     v2 = "",
     v3 = "" },
     
+        ["SORA SHIMA"] = { 
+    v1 = "sora_shimav1.json", 
+    v2 = "sora_shimav2.json",
+    v3 = "" },
+
         ["MOUNT AXIS"] = { 
     v1 = "mount_axisv1.json", 
     v2 = "mount_axisv2.json",

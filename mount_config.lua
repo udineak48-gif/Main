@@ -46,7 +46,7 @@ local FloatingMounts = {
 
         ["MOUNT FRESTEL"] = { 
     v1 = "mount_frestel.json", 
-    v2 = "mount_frestel_wasd.json ",
+    v2 = "mount_frestel_wasd.json",
     v3 = "" },
 
 

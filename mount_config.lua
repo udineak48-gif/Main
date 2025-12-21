@@ -19,7 +19,7 @@ local FloatingMounts = {
     v2 = "mount_axisv2.json",
     v3 = "" },
     
-        ["MOUNT SIBUATAN"] = { 
+        ["MOUNT CHAOS BLOOM"] = { 
     v1 = "mount_chaos_bloom.json", 
     v2 = "",
     v3 = "" },
@@ -68,11 +68,6 @@ local FloatingMounts = {
 
          ["MOUNT BEJIRLAH"] = { 
     v1 = "mount_bejirlah.json", 
-    v2 = "",
-    v3 = "" },
-
-         ["MOUNT GUNUNG TAPI BOHONG"] = { 
-    v1 = "mount_gunungtapibohong.json", 
     v2 = "",
     v3 = "" },
 

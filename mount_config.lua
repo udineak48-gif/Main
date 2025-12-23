@@ -72,6 +72,18 @@ local FloatingMounts = {
     v2 = "",
     v3 = "" },
 
+        ["SADEWA CITY"] = { 
+    v1 = "sadewa_city.json", 
+    v2 = "",
+    v3 = "" },
+
+        ["KOTA_BUKAN_GUNUNG"] = { 
+    v1 = "kota_bukan_gunung.json", 
+    v2 = "",
+    v3 = "" },
+
+
+
         ["MOUNT AETHERIA"] = { 
     v1 = "mount_aetheria.json", 
     v2 = "mount_aetheria_c3.json",

@@ -19,10 +19,6 @@ local FloatingMounts = {
     v2 = "",
     v3 = "" },
    
-        ["MOUNT EVERLIGHT"] = { 
-    v1 = "mount_everlight.json", 
-    v2 = "",
-    v3 = "" },
 
         ["SORA SHIMA"] = { 
     v1 = "sora_shimav1.json", 

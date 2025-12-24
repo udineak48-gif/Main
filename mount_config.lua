@@ -19,6 +19,16 @@ local FloatingMounts = {
     v2 = "",
     v3 = "" },
    
+        ["MOUNT H2C"] = { 
+    v1 = "mount_h2c.json", 
+    v2 = "",
+    v3 = "" },
+   
+        ["MOUNT YAHAYUK VIP"] = { 
+    v1 = "mount_yahayuk_vip.json", 
+    v2 = "",
+    v3 = "" },
+   
 
         ["SORA SHIMA"] = { 
     v1 = "sora_shimav1.json", 
@@ -37,6 +47,16 @@ local FloatingMounts = {
     v2 = "mount_axisv2.json",
     v3 = "" },
     
+        ["MOUNT YUME"] = { 
+    v1 = "mount_yume_tangga.json", 
+    v2 = "mount_yume_esline.json",
+    v3 = "" },
+
+        ["MOUNT YUBI"] = { 
+    v1 = "mount_yubi.json", 
+    v2 = "",
+    v3 = "" },
+
         ["MOUNT CHAOS"] = { 
     v1 = "mount_chaos.json", 
     v2 = "",

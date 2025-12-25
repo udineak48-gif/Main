@@ -24,6 +24,11 @@ local FloatingMounts = {
     v2 = "mount_h2c_kanan.json ",
     v3 = "" },
     
+        ["MOUNT MOLTI"] = { 
+    v1 = "mount_molti.json", 
+    v2 = "mount_molti_vip.json ",
+    v3 = "" },
+
         ["MOUNT LUNA"] = { 
     v1 = "mount_luna.json", 
     v2 = "",
@@ -139,9 +144,9 @@ local FloatingMounts = {
     v3 = "" },
 
         ["MOUNT AURIESE"] = { 
-    v1 = "mount_auriese_kiri.json", 
-    v2 = "mount_auriese_tengah.json",
-    v3 = "mount_auriese_kanan.json" },
+    v1 = "mount_auriese.json", 
+    v2 = "",
+    v3 = "" },
 
 
         ["MOUNT ANJIR"] = { 

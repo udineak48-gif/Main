@@ -20,8 +20,8 @@ local FloatingMounts = {
     v3 = "" },
    
         ["MOUNT H2C"] = { 
-    v1 = "mount_h2c.json", 
-    v2 = "",
+    v1 = "mount_h2c_kiri.json", 
+    v2 = "mount_h2c_kanan.json ",
     v3 = "" },
     
         ["MOUNT LUNA"] = { 

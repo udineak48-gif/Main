@@ -23,7 +23,17 @@ local FloatingMounts = {
     v1 = "mount_h2c.json", 
     v2 = "",
     v3 = "" },
-   
+    
+        ["MOUNT LUNA"] = { 
+    v1 = "mount_luna.json", 
+    v2 = "",
+    v3 = "" },
+
+        ["JOURNEY EXPEDION"] = { 
+    v1 = "journey_expedion.json", 
+    v2 = "",
+    v3 = "" },
+
         ["MOUNT YAHAYUK VIP"] = { 
     v1 = "mount_yahayuk_vip.json", 
     v2 = "",

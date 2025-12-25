@@ -19,6 +19,18 @@ local FloatingMounts = {
     v2 = "",
     v3 = "" },
    
+
+        ["MOUNT GASPOL"] = { 
+    v1 = "mount_gaspol.json", 
+    v2 = "",
+    v3 = "" },
+
+
+        ["MOUNT azalea"] = { 
+    v1 = "mount_azalea.json", 
+    v2 = "",
+    v3 = "" },
+
         ["MOUNT H2C"] = { 
     v1 = "mount_h2c_kiri.json", 
     v2 = "mount_h2c_kanan.json ",

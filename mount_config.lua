@@ -54,8 +54,8 @@ local FloatingMounts = {
     v3 = "" },
 
         ["JOURNEY EXPEDION"] = { 
-    v1 = "journey_expedion_V1.json", 
-    v2 = "journey_expedion_v2.json",
+    v1 = "journey_expedion.json", 
+    v2 = "",
     v3 = "" },
 
         ["MOUNT YAHAYUK VIP"] = { 

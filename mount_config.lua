@@ -45,12 +45,17 @@ local FloatingMounts = {
 
         ["MOUNT H2C"] = { 
     v1 = "mount_h2c_kiri.json", 
-    v2 = "mount_h2c_kanan.json ",
+    v2 = "mount_h2c_kanan.json",
     v3 = "" },
-    
+ 
+        ["MOUNT LEVION"] = { 
+    v1 = "mount_levion_v1.json", 
+    v2 = "mount_levion_v2.json",
+    v3 = "" },
+   
         ["MOUNT MOLTI"] = { 
     v1 = "mount_molti.json", 
-    v2 = "mount_molti_vip.json ",
+    v2 = "mount_molti_vip.json",
     v3 = "" },
 
         ["MOUNT LUNA"] = { 

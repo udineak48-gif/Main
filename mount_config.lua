@@ -94,7 +94,7 @@ local FloatingMounts = {
         ["MOUNT YUME"] = { 
     v1 = "mount_yume_v1.json", 
     v2 = "mount_yume_v2.json",
-    v3 = "" },
+    v3 = "mount_yume_v3.json" },
 
         ["MOUNT YUBI"] = { 
     v1 = "mount_yubi.json", 

@@ -20,6 +20,12 @@ local FloatingMounts = {
     v3 = "" },
    
 
+        ["MOUNT YAYAKIN"] = { 
+    v1 = "mount_yayakin.json", 
+    v2 = "",
+    v3 = "" },
+
+
         ["MOUNT ALUNNA"] = { 
     v1 = "mount_alunna.json", 
     v2 = "",
@@ -174,7 +180,7 @@ local FloatingMounts = {
 
            ["MOUNT AYRIENE"] = { 
     v1 = "mount_ayriene.json", 
-    v2 = "",
+    v2 = "mount_ayriene_wasd.json",
     v3 = "" },
 
         ["MOUNT AURIESE"] = { 

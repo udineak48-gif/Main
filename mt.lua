@@ -4,12 +4,12 @@
 ---------------------------------------------------------------------
 local FloatingMounts = {
     ["MT YAHAYUK"] = { 
-    v1 = "mt_yahayuk.json", 
+    v1 = "mount_yahayuk_v3.json", 
     v2 = "",
     v3 = "" },
    
     ["MT YNTKS"] = { 
-    v1 = "mt_yntks.json", 
+    v1 = "mount_yntks.json", 
     v2 = "",
     v3 = "" },
 
@@ -51,4 +51,5 @@ return {
     FloatingMounts = FloatingMounts,
     CheckpointMounts = CheckpointMounts
 }
+
 
